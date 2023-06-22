@@ -1,4 +1,4 @@
-# Ex-15 Image Carousel in react using hooks
+# Ex-07 Image Carousel in react using hooks
 ## AIM:-
 To create react app to develop Image Carousel using hooks.
 
