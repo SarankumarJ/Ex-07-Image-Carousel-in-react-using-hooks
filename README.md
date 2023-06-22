@@ -1,4 +1,4 @@
-# Ex-07-Image-Carousel-in-react-using-hooks
+# Ex-15 Image Carousel in react using hooks
 ## AIM:-
 To create react app to develop Image Carousel using hooks.
 
@@ -19,6 +19,8 @@ Import to App.js and there include ImageCarousel Component into App Component.
 Verify the output by running the Web-Layout in any web browser.
 
 ## PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 App.css
 ```css
 .app {
